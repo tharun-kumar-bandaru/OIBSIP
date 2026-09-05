@@ -1,0 +1,15 @@
+Column,Data Type,Missing Values,Missing %,Unique Values
+Employee_ID,object,0,0.0,1020
+First_Name,object,0,0.0,8
+Last_Name,object,0,0.0,8
+Age,float64,0,0.0,4
+Department_Region,object,0,0.0,36
+Status,object,0,0.0,3
+Join_Date,datetime64[ns],0,0.0,760
+Salary,float64,0,0.0,979
+Email,string,0,0.0,64
+Phone,string,0,0.0,1020
+Performance_Score,object,0,0.0,4
+Remote_Work,boolean,0,0.0,2
+Department,object,0,0.0,6
+Region,object,0,0.0,6
